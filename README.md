@@ -80,6 +80,7 @@ Key results:
 - Increased true positives (better detection of `>50K`)
 - Reduced false negatives
 - Slight increase in false positives (acceptable trade-off)
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 
