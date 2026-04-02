@@ -140,7 +140,6 @@ By improving recall for high-income individuals (>50K), the model helps identify
 ## 📁 Project Structure
 
 income-classification
-
 ┣ 📜 adult_census_income.ipynb
 ┣ 📜 adultcensusincome.csv
 ┣ 🖼️ confusion_matrix.png
