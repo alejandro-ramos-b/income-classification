@@ -100,6 +100,15 @@ Insight:
 Random Forest combined with SMOTE provided the best performance for this problem. While there is a trade-off between precision and recall, improving detection of the minority class was prioritized. This project demonstrates a complete machine learning workflow from data preprocessing to model interpretation.
 
 ---
+## 💼 Business Impact
+
+This model can be used in real-world scenarios such as:
+- Financial institutions for loan risk assessment
+- Marketing teams for customer segmentation
+- Salary prediction and workforce analytics
+
+By improving recall for high-income individuals (>50K), the model helps identify valuable customers more effectively, even if it introduces a slight increase in false positives.
+
 
 ## 🛠️ Tools & Libraries
 - Python
