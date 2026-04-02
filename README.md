@@ -85,6 +85,8 @@ Key results:
 ---
 
 ## 🌟 Feature Importance
+![Feature Importance](feature_importance.png)
+
 Top influencing features:
 - Age
 - Relationship
