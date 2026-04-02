@@ -66,6 +66,19 @@ Evaluation metrics used:
 - F1-score
 - Confusion Matrix
 
+  ## 🧠 Model Selection Rationale
+
+Multiple models were evaluated, including Logistic Regression, KNN, Decision Tree, and Random Forest.
+
+Random Forest was selected as the final model because:
+- It provided the best balance between precision and recall
+- It improved detection of the minority class (>50K)
+- It handled feature interactions better than simpler models
+
+Although accuracy was slightly reduced after applying SMOTE, recall and F1-score for the minority class improved, which was prioritized for this problem.
+
+This trade-off is acceptable in scenarios where identifying high-income individuals is more important than minimizing false positives.
+
 ### Final Model:
 **Random Forest with SMOTE**
 
