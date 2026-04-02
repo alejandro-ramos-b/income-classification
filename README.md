@@ -109,6 +109,7 @@ This model can be used in real-world scenarios such as:
 
 By improving recall for high-income individuals (>50K), the model helps identify valuable customers more effectively, even if it introduces a slight increase in false positives.
 
+---
 
 ## 🛠️ Tools & Libraries
 - Python
