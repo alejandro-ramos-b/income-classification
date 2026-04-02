@@ -112,3 +112,20 @@ Random Forest combined with SMOTE provided the best performance for this problem
 ---
 
 ## 📁 Project Structure
+📦 income-classification
+┣ 📜 notebook.ipynb
+┣ 📜 README.md
+┗ 📊 dataset
+
+
+---
+
+## 🚀 Next Steps
+- Hyperparameter tuning for Random Forest
+- Try advanced models (XGBoost, Gradient Boosting)
+- Deploy model as a simple web app
+
+---
+
+## 👤 Author
+Alejandro Ramos Bojorquez
